@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Master JavaScript Course",
+    "img_url": "https://images.unsplash.com/photo-1537884944318-390069bb8665?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "description": "For courses that can be taken more than one time, state the number of times the course may be repeated, such as “May be repeated once for credit” at the end of the course description.",
+    "author_name": "Desiree Gould",
+    "publish_date": "Mar 7, 2022",
+    "rating": 4.5,
+    "price": 275
+  },
+  {
+    "id": "2",
+    "title": "C++ Development Course",
+    "img_url": "https://plus.unsplash.com/premium_photo-1661766167931-600418f06df8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "description": "For courses that can be taken more than one time, state the number of times the course may be repeated, such as “May be repeated once for credit” at the end of the course description.",
+    "author_name": "Phoebe Boyle",
+    "publish_date": "Sep 5, 2022",
+    "rating": 4.3,
+    "price": 208
+  },
+  {
+    "id": "3",
+    "title": "Android Development Course",
+    "img_url": "https://images.unsplash.com/photo-1478104718532-efe04cc3ff7f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80",
+    "description": "For courses that can be taken more than one time, state the number of times the course may be repeated, such as “May be repeated once for credit” at the end of the course description.",
+    "author_name": "Judah Caldwell",
+    "publish_date": "Jul 18, 2022",
+    "rating": 4.7,
+    "price": 167
+  },
+  {
+    "id": "4",
+    "title": "Web Development Course",
+    "img_url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "description": "For courses that can be taken more than one time, state the number of times the course may be repeated, such as “May be repeated once for credit” at the end of the course description.",
+    "author_name": "Phelan Diaz",
+    "publish_date": "Apr 12, 2022",
+    "rating": 4.9,
+    "price": 140
+  },
+  {
+    "id": "5",
+    "title": "React Development Course",
+    "img_url": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "description": "For courses that can be taken more than one time, state the number of times the course may be repeated, such as “May be repeated once for credit” at the end of the course description.",
+    "author_name": "Russell Vega",
+    "publish_date": "Jul 1, 2022",
+    "rating": 4.8,
+    "price": 272
+  },
+  {
+    "id": "6",
+    "title": "Python Development Course",
+    "img_url": "https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "description": "For courses that can be taken more than one time, state the number of times the course may be repeated, such as “May be repeated once for credit” at the end of the course description.",
+    "author_name": "Jessica Mccray",
+    "publish_date": "Jul 13, 2023",
+    "rating": 4.4,
+    "price": 248
+  }
+]
